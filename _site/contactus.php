@@ -1,6 +1,6 @@
 <?php
 
-$my_email = "info@ICSTAconference.com";
+$my_email = "info@icsta.net";
 
 $name=$_POST['Name'];
 $email=$_POST['Email'];
@@ -185,7 +185,7 @@ if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response
     Orl&eacute;ans, Ontario, Canada<br>
     Postal Code: K1C 1G1<br>
     +1-613-834-9999<br>
-    <a href="mailto:info@ICSTAconference.com">info@ICSTAconference.com</a></p>
+    <a href="mailto:info@icsta.net">info@icsta.net</a></p>
     </div>
   </div>
 

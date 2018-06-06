@@ -1,5 +1,5 @@
 <?php
-$my_email = "registration@ICSTAconference.com";
+$my_email = "registration@icsta.net";
 $errors = array();
 
 // Remove $_COOKIE elements from $_REQUEST.
@@ -43,9 +43,9 @@ $message = 'Dear Colleague,
 
 Thank you for registering for ICSTA 2019. If you have requested any official letters, please allow up to 5 business days to receive your documents.
 
-If you are an author, please make sure to send us your camera ready version and a signed copyright form via email to info@ICSTAconference.com. You can find the copyright form here: www.2019.ICSTAconference.com/papers. Please note that failing to do so may result in an unsuccessful process of your registration.
+If you are an author, please make sure to send us your camera ready version and a signed copyright form via email to info@icsta.net. You can find the copyright form here: www.2019.icsta.net/papers. Please note that failing to do so may result in an unsuccessful process of your registration.
 
-You can find your registration details below. If there are any errors in the information you have provided, please write an email to us at registration@ICSTAconference.com mentioning the correct information. Please note that you SHOULD NOT refill the form.
+You can find your registration details below. If there are any errors in the information you have provided, please write an email to us at registration@icsta.net mentioning the correct information. Please note that you SHOULD NOT refill the form.
 
 ---
 
@@ -250,7 +250,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 
   <p class="body">If you have requested any official invitation letters, please allow up to 5 business days to receive your documents.</p> 
 
-    <p class="body">If there are any problems in the information you have filled out, please write an email to us at <a href="mailto:registration@ICSTAconference.com" class="body-link">registration@ICSTAconference.com</a> mentioning the mistakes made. Please note that you SHOULD NOT refill the form.</p>
+    <p class="body">If there are any problems in the information you have filled out, please write an email to us at <a href="mailto:registration@icsta.net" class="body-link">registration@icsta.net</a> mentioning the mistakes made. Please note that you SHOULD NOT refill the form.</p>
 
   <p class="body">We are looking forward to seeing you at ICSTA'19!</p>
   </div>
@@ -273,7 +273,7 @@ mail($your_email,$your_subject,$message,$your_headers);
     Orl&eacute;ans, Ontario, Canada<br>
     Postal Code: K1C 1G1<br>
     +1-613-834-9999<br>
-    <a href="mailto:info@ICSTAconference.com">info@ICSTAconference.com</a></p>
+    <a href="mailto:info@icsta.net">info@icsta.net</a></p>
     </div>
   </div>
 

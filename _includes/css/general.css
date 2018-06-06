@@ -86,7 +86,7 @@ h2 {
   font-weight: 400;
   font-size: 0.84em;
   margin: 0;
-  color: #E97024;
+  color: #4b78c1;
   text-transform: uppercase;
   line-height: initial;
   letter-spacing: 0.5px;
@@ -123,7 +123,7 @@ margin: 0;
 }
 
 .body-link {
-color: #E97024;
+color: #4b78c1;
 text-decoration: none;
 transition: all 0.8s linear;
 }
@@ -175,7 +175,7 @@ blockquote {
 }
 
 .content tr {
-  border-bottom: 1px solid #E97024;
+  border-bottom: 1px solid #4b78c1;
 }
 
 th {
@@ -185,7 +185,7 @@ th {
 .date-title {
   display: block;
   padding: 0.5em;
-  background-color: #E97024;
+  background-color: #4b78c1;
   color: #FFF;
 }
 
@@ -224,7 +224,7 @@ th {
 }
 
 .top:hover {
-	color: #E97024;
+	color: #4b78c1;
 }
 
 .top:before {
@@ -251,7 +251,7 @@ th {
 }
 
 .keynotes a {
-	color: #E97024;
+	color: #4b78c1;
 	text-decoration: none;
 	border-bottom: 1px solid;
 	transition: all 0.3s linear;
@@ -292,7 +292,7 @@ th {
 }
 
 .pdf {
-	color: #E97024;
+	color: #4b78c1;
 	font-family: 'Lato', sans-serif;
 	text-decoration: none;
 	text-transform: uppercase;
@@ -320,7 +320,7 @@ th {
 }
 
 .keynote-info .top a:hover {
-	color: #E97024;
+	color: #4b78c1;
 }
 
 .border {
@@ -349,7 +349,7 @@ h1 {
 	padding: 0.5em 0.5em 1em;
     font-size: 1.25em!important;
 	margin: 0!important;
-	color: #E97024;
+	color: #4b78c1;
 }
 
 .subhead {
@@ -372,7 +372,7 @@ h1 {
 .bg-link {
 	border: 1px solid;
 	padding: 0.5em;
-	color: #E97024;
+	color: #4b78c1;
 	text-decoration: none;
 	font-family: 'Lato', sans-serif;
 	text-transform: uppercase;
@@ -404,7 +404,7 @@ h1 {
 	padding: 0px; 
 }
 .side-bar-menu{
-	border: 1px solid  #E97024;
+	border: 1px solid  #4b78c1;
 	border-bottom:none;
 	list-style-type: none;
 	margin:0px;
@@ -417,7 +417,7 @@ h1 {
 .side-bar-menu a {
 	padding: 0.5em;
 	margin:0;
-	color: #E97024;
+	color: #4b78c1;
 	text-decoration: none;
 	font-family: 'Lato', sans-serif;
 	text-transform: uppercase;
@@ -426,7 +426,7 @@ h1 {
 	display: block;
 	width: 100%;
 	text-decoration: none;
-	border-bottom: 1px solid  #E97024;
+	border-bottom: 1px solid  #4b78c1;
 	transition: all 0.8s ease;
 }
 .side-bar-menu a:hover {
@@ -548,7 +548,7 @@ transition: all 300ms;
 			display: inline-block;
 			width: 36px;
 			height: 36px;
-			color: #E97024;
+			color: #4b78c1;
 			font-family: "icomoon";
 			font-style: normal;
 			font-size: 1.2em;
@@ -591,7 +591,7 @@ transition: all 300ms;
 		}
 
 		.menu-trigger:hover:after {
-			color: #E97024;
+			color: #4b78c1;
 		}
 
 body.menu-active div#content { right: 141px;}
@@ -610,7 +610,7 @@ padding: 0;
 }
 
 .searchbox .body {
-  color: #E97024;
+  color: #4b78c1;
   text-align: center;
   padding: 3px 0;
 }
@@ -649,7 +649,7 @@ margin-bottom: 0px!important;
 }
 
 .gsst_a .gscb_a {
-color: #E97024!important;
+color: #4b78c1!important;
 cursor: pointer;
 }
 
@@ -716,17 +716,17 @@ display: none;
 }
 
 .gs-webResult.gs-result a.gs-title:visited, .gs-webResult.gs-result a.gs-title:visited b, .gs-imageResult a.gs-title:visited, .gs-imageResult a.gs-title:visited b {
-    color: #E97024!important;
+    color: #4b78c1!important;
 }
 
 .gs-webResult.gs-result a.gs-title:link, .gs-webResult.gs-result a.gs-title:link b, .gs-imageResult a.gs-title:link, .gs-imageResult a.gs-title:link b {
-    color: #E97024!important;
+    color: #4b78c1!important;
 }
 
 .gsc-results .gsc-cursor-box .gsc-cursor-current-page {
     border-color: #FFF;
     background-color: #FFFFFF!important;
-    color: #E97024!important;
+    color: #4b78c1!important;
 }
 
 /*UPCOMING DATES*/
@@ -757,7 +757,7 @@ padding-bottom: 0;
 
 /* FOOTER */
 footer {
-  background-color: #E97024;
+  background-color: #4b78c1;
   color: #FFF;
   padding: 1em;
 }
@@ -788,7 +788,7 @@ footer form {
 
 footer input[type="submit"], footer input[type="reset"] {
   background-color: #FFF;
-  color: #E97024;
+  color: #4b78c1;
 }
 
 footer input[type="submit"]:hover, footer input[type="reset"]:hover {
@@ -818,7 +818,7 @@ textarea {
 }
 
 .copyright a {
-	color: #E97024;
+	color: #4b78c1;
 	text-transform: uppercase;
 	text-decoration: none;
 	transition: all 0.8s ease;
@@ -945,7 +945,7 @@ textarea {
 input[type="button"], input[type="reset"], input[type="submit"] {
   -webkit-appearance: button;
   cursor: pointer;
-  background-color: #E97024;
+  background-color: #4b78c1;
   font-family: 'Lato', sans-serif;
   text-transform: uppercase;
   color: #FFF;
@@ -984,7 +984,7 @@ input[type="reset"]:hover, input[type="submit"]:hover {
 }
 
 .accommodation td {
-	border: 1px solid #E97024;
+	border: 1px solid #4b78c1;
 	padding: 0 1em;
 }
 
@@ -1359,7 +1359,7 @@ h1 {
 
 .subhead {
   padding: 0 1em 1.5em;
-  color: #E97024;
+  color: #4b78c1;
 }
 
 .main-content {
@@ -1389,7 +1389,7 @@ h2 {
   padding: 0.5em;
   background-color: transparent;
   color: #000;
-  border-right: 1px solid #E97024;
+  border-right: 1px solid #4b78c1;
     font-weight: 500;
 }
 
