@@ -1,0 +1,3 @@
+Sitemap: http://www.ICSTAconference.com/sitemap.xml
+
+User-agent: *

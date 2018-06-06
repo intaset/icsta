@@ -1,0 +1,3 @@
+markdown: redcarpet
+baseurl: /htffconference
+exclude: ['README.md',]
