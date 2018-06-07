@@ -24,7 +24,7 @@ RewriteCond %{REQUEST_URI} !^/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
 RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
 RewriteRule (.*)$ /$1/ [R=301,L]
 
-Redirect /index http://icsta.net
+Redirect /index https://icsta.net
 
 ErrorDocument 404 /NotValid.html
 ErrorDocument 403 /NotValid.html
@@ -34,9 +34,4 @@ ErrorDocument 500 /NotValid.html
 order allow,deny
 allow from all
 </Files>
-# Force https
-RewriteEngine On 
-RewriteCond %{SERVER_PORT} 80 
-RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
-RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
-RewriteRule ^(.*)$ https://icsta.net/$1 [R,L]
+

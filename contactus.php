@@ -12,7 +12,7 @@ $captcha = false;
 // check if not robot
 if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response'])) {
   $captcha = true;
-  $secret = '6LcbTP8SAAAAALJjrX0GVljdk6ASyPooBQ5_Cnj1';
+  $secret = '6LcRq10UAAAAAP7SkA_4_uuJFulnxRiFVJUOJfMS';
   //get verify response data
   $verifyResponse = file_get_contents('https://www.google.com/recaptcha/api/siteverify?secret='.$secret.'&response='.$_POST['g-recaptcha-response']);
   $responseData = json_decode($verifyResponse);
@@ -103,7 +103,7 @@ if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response
   </div>
 </div>
         <div class="bg">
-          <h1>1<sup>st</sup> International Conference on<br> Statistics: Theory and Applications (ICSTA'19)</h1>
+          <h1>International Conference on<br> Statistics: Theory and Applications (ICSTA'19)</h1>
           <p class="subhead">August 13 - 14, 2019 | Lisbon, Portugal</p>
 
           <a href="../papers" class="bg-link">Submissions</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
@@ -131,7 +131,7 @@ if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response
         </div>
 
         <div class="bg">
-          <h1>1<sup>st</sup> International Conference on<br> Statistics: Theory and Applications (ICSTA'19)</h1>
+          <h1>International Conference on<br> Statistics: Theory and Applications (ICSTA'19)</h1>
           <p class="subhead">August 13 - 14, 2019 | Lisbon, Portugal</p>
 
           <a href="../papers" class="bg-link">Submissions</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>

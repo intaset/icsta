@@ -184,7 +184,7 @@ mail($your_email,$your_subject,$message,$your_headers);
   </div>
 </div>
         <div class="bg">
-          <h1>1<sup>st</sup> International Conference on<br> Statistics: Theory and Applications (ICSTA'19)</h1>
+          <h1>International Conference on<br> Statistics: Theory and Applications (ICSTA'19)</h1>
           <p class="subhead">August 13 - 14, 2019 | Lisbon, Portugal</p>
 
           <a href="../papers" class="bg-link">Submissions</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
@@ -212,7 +212,7 @@ mail($your_email,$your_subject,$message,$your_headers);
         </div>
 
         <div class="bg">
-          <h1>1<sup>st</sup> International Conference on<br> Statistics: Theory and Applications (ICSTA'19)</h1>
+          <h1>International Conference on<br> Statistics: Theory and Applications (ICSTA'19)</h1>
           <p class="subhead">August 13 - 14, 2019 | Lisbon, Portugal</p>
 
           <a href="../papers" class="bg-link">Submissions</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
